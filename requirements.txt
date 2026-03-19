@@ -1,0 +1,6 @@
+streamlit
+feedparser
+transformers
+newspaper3k
+torch
+lxml
