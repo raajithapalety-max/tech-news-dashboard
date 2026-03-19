@@ -26,7 +26,7 @@ streamlit run code.py
 
 ## Output
 
-![App Screenshot](images/image.jpeg)
+![App Screenshot](image.jpeg)
 
 
 ## Future Improvements
